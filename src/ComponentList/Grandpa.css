@@ -1,0 +1,14 @@
+.grandpa div {
+    border: 2px solid peru;
+    margin-bottom: 15px;
+    padding: 10px;
+    border-radius: 5px;
+
+}
+
+.flex {
+    display: flex;
+    gap: 5px;
+    border-radius: 5px;
+    padding: 15px;
+}
